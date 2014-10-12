@@ -1,6 +1,10 @@
+# Pycharm
+.idea
+
 # Python
 *.pyc
 
 # Django
 */settings.py
+static
 
